@@ -6,5 +6,5 @@ I graduated from CodeClan, a digital skills academy that offered a specialist bo
 
 Checkout my pinned repo's which demonstrate some of the projects I have worked on during the course and after. 
 
-Free to reach out or connect on <a href="https://www.linkedin.com/in/spencertaber/"> LinkedIn </a>
+Feel free to reach out on <a href="https://www.linkedin.com/in/spencertaber/"> LinkedIn </a>
 
